@@ -1,2 +1,2 @@
-# Project2-DSC-680
+# NBA Player Similarity Model
 This is a repository for my Project 2 for DSC 680.
